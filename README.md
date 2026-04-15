@@ -2,6 +2,9 @@
 
 A simple Movie-API project to store movies, genres, actros. Genres, movies and actors can be connected.
 
+## Author
+- Markus Stamm
+
 # Setup and Installation Instructions
 
 ### 1. **Clone the Repository**
